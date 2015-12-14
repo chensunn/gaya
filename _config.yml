@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m now a student, but I'm interested in web skills.
   And I love being creative.
 baseurl:
-url: http://127.0.0.1:4000
+url: http://chensunn.com
 logourl: /assets/images/logo.png # Site logo
 author: "Chen Sunn"
 author_thumbnail: "/assets/images/chensunn.jpg" # Author avatar
