@@ -1,22 +1,22 @@
 # Site settings
-title: Your awesome title
-tagline: And Tagline
-email: gayanvirajith@gmail.com
+title: Chen Sunn
+tagline: Blog
+email: 424448083@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designer and web developer. 
-  I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+  Hi, I’m now a student, but I'm interested in web skills.
+  And I love being creative.
+baseurl:
+url: http://127.0.0.1:4000
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+author: "Chen Sunn"
+author_thumbnail: "/assets/images/chensunn.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: gayanvirajith
+    github: chensunn
     twitter: gayanvirajith
     facebook: gayanvirajith
     gplus: +gayanvirajith
